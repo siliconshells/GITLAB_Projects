@@ -16,7 +16,7 @@ The aim was to create an S3 Bucket using AWS CDK.
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonardmini32
 
-**1. Mini Project Four**     
+1. **Mini Project Four**     
 The aim of this project was to containerize a simple Rust Actix web app, build a Docker image and run container locally.
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Four
