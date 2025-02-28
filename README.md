@@ -1,5 +1,5 @@
 # GitLab Academic Projects
-This provides a list of projects currently on Gitlab. They were created as assignments from the Data Analysis in Cloud course, IDS 721:      
+This provides a list of projects currently on **GitLab**. They were created as assignments from the Data Analysis in Cloud course, IDS 721:      
 
 1. **Mini Project One - Cloud Computing Foundations Part-One**     
 The aim was to create a static site with Zola Links to an external site, a Rust static site generator, that will hold all of the portfolio work in this class. Store source code in a new project GitLab repo in our Duke GitLab organization.        
