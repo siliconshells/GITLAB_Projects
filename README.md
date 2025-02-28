@@ -17,7 +17,7 @@ The aim was to create a simple AWS Lambda function that processes data in Rust.
 The aim was to create an S3 Bucket using AWS CDK.       
     *Featured Skills*: AWS Lambda, IAM, Gitlab, AWS CLI, AWS S3, Rust, CI/CD, AWS CodeCatalyst
 
-    https://gitlab.com/dukeaiml/ids721-spring2025/Leonardmini32
+    https://gitlab.com/Siliconshells/leonardmini32
 
 1. **Mini Project Four - Containerize a Rust Actix Web Service**     
 The aim of this project was to containerize a simple Rust Actix web app, build a Docker image and run container locally.       
