@@ -15,7 +15,7 @@ The aim was to create a simple AWS Lambda function that processes data in Rust.
 
 1. **Mini Project Three - Cloud Computing Foundations Part-Three**     
 The aim was to create an S3 Bucket using AWS CDK.       
-    *Featured Skills*: AWS Lambda, IAM, Gitlab, AWS CLI, AWS S3, Rust, CI/CD
+    *Featured Skills*: AWS Lambda, IAM, Gitlab, AWS CLI, AWS S3, Rust, CI/CD, AWS CodeCatalyst
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonardmini32
 
