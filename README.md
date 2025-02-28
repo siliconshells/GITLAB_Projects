@@ -1,25 +1,25 @@
 # GitLab Academic Projects
-This provides a list of projects currently on Gitlab. They were created as assignments from the Data Analysis in Cloud course, IDS 721:
+This provides a list of projects currently on Gitlab. They were created as assignments from the Data Analysis in Cloud course, IDS 721:      
 
-1. **Mini Project One**     
+1. **Mini Project One - Cloud Computing Foundations Part-One**     
 The aim was to create a static site with Zola Links to an external site, a Rust static site generator, that will hold all of the portfolio work in this class. Store source code in a new project GitLab repo in our Duke GitLab organization.        
     *Featured Skills*: AWS S3, Rust, IAM, Gitlab, Rust, HTML, CSS, Zola
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_One
 
-1. **Mini Project Two**     
+1. **Mini Project Two - Cloud Computing Foundations Part-Two**     
 The aim was to create a simple AWS Lambda function that processes data in Rust.       
     *Featured Skills*: AWS Lambda, Rust, IAM, Gitlab, AWS CLI
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonard_Eshun_Mini_Project_Two
 
-1. **Mini Project Three**     
+1. **Mini Project Three - Cloud Computing Foundations Part-Three**     
 The aim was to create an S3 Bucket using AWS CDK.       
     *Featured Skills*: AWS Lambda, IAM, Gitlab, AWS CLI, AWS S3, Rust
 
     https://gitlab.com/dukeaiml/ids721-spring2025/Leonardmini32
 
-1. **Mini Project Four**     
+1. **Mini Project Four - Containerize a Rust Actix Web Service**     
 The aim of this project was to containerize a simple Rust Actix web app, build a Docker image and run container locally.       
     *Featured Skills*: AWS Lambda, IAM, Gitlab, AWS CLI, Docker, Rust
 
